@@ -1,0 +1,61 @@
+
+
+
+	
+
+				/*  
+
+				
+				Created by GilbertoQuintero
+
+
+
+				 */
+
+		
+	@import url('https://fonts.googleapis.com/css?family=Karla|Titillium+Web&display=swap');
+  
+
+    	body{
+
+			font-family: 'Titillium Web', sans-serif;
+			padding:0;
+			margin:0;
+
+    	 }
+
+
+
+
+    	.main{
+    		/*background-image:url("https://ak3.picdn.net/shutterstock/videos/7349623/thumb/1.jpg");*/
+    		background: linear-gradient(90deg,#021048,#1e38a3);
+     	}
+
+		.container{
+
+			width:50%;
+			margin:auto;
+			text-align: center;
+			font-size:25px;
+			padding-top:150px;
+			color:white;
+		}
+
+
+		.input-register{
+
+			border:none;
+			padding:20px;
+			padding-right: 30px;
+			margin:6px;
+
+		}
+
+		.btn-register{
+			padding:20px;
+			border:none;
+			color: #fff;
+		    background: #007bfc;
+
+		}
